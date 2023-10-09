@@ -10,3 +10,4 @@ w1.luckyorange.com
 bdapi-ads.realmemobile.com
 bdapi-in-ads.realmemobile.com
 ck.ads.oppomobile.com
+adtech.yahooinc.com
